@@ -1,0 +1,173 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+010_clas_01.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_01.jpg
+010_clas_02.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_02.jpg
+010_clas_03.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_03.jpg
+010_clas_04.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_04.jpg
+010_clas_05.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_05.jpg
+010_clas_06.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_06.jpg
+010_clas_07.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_07.jpg
+010_clas_08.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_08.jpg
+010_clas_09.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_09.jpg
+010_clas_10.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_10.jpg
+010_clas_11.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_11.jpg
+010_clas_12.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_12.jpg
+010_clas_13.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_13.jpg
+010_clas_14.jpg	D:\Projects\Портфолио\Site\Классика\010_clas_14.jpg
+011_spir_01.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_01.jpg
+011_spir_02.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_02.jpg
+011_spir_03.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_03.jpg
+011_spir_04.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_04.jpg
+011_spir_05.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_05.jpg
+011_spir_06.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_06.jpg
+011_spir_07.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_07.jpg
+011_spir_08.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_08.jpg
+011_spir_09.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_09.jpg
+011_spir_10.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_10.jpg
+011_spir_11.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_11.jpg
+011_spir_12.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_12.jpg
+011_spir_13.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_13.jpg
+011_spir_14.jpg	D:\Projects\Портфолио\Site\Сад спирей\011_spir_14.jpg
+015_dec_01.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_01.jpg
+015_dec_02.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_02.jpg
+015_dec_03.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_03.jpg
+015_dec_04.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_04.jpg
+015_dec_05.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_05.jpg
+015_dec_06.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_06.jpg
+015_dec_07.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_07.jpg
+015_dec_08.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_08.jpg
+015_dec_09.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_09.jpg
+015_dec_10.jpg	D:\Projects\Портфолио\Site\Даниловы\015_dec_10.jpg
+012_mal_01.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_01.jpg
+012_mal_02.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_02.jpg
+012_mal_03.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_03.jpg
+012_mal_04.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_04.jpg
+012_mal_05.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_05.jpg
+012_mal_06.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_06.jpg
+012_mal_07.jpg	D:\Projects\Портфолио\Site\Малый сад\012_mal_07.jpg
+013_dat_01.jpg	D:\Projects\Портфолио\Site\Дача\013_dat_01.jpg
+013_dat_02.jpg	D:\Projects\Портфолио\Site\Дача\013_dat_02.jpg
+013_dat_03.jpg	D:\Projects\Портфолио\Site\Дача\013_dat_03.jpg
+013_dat_04.jpg	D:\Projects\Портфолио\Site\Дача\013_dat_04.jpg
+013_dat_05.jpg	D:\Projects\Портфолио\Site\Дача\013_dat_05.jpg
+013_dat_06.jpg	D:\Projects\Портфолио\Site\Дача\013_dat_06.jpg
+008_chek_01.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_01.jpg
+008_chek_02.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_02.jpg
+008_chek_03.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_03.jpg
+008_chek_04.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_04.jpg
+008_chek_05.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_05.jpg
+008_chek_06.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_06.jpg
+008_chek_07.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_07.jpg
+008_chek_08.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_08.jpg
+008_chek_09.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_09.jpg
+008_chek_10.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_10.jpg
+008_chek_11.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_11.jpg
+008_chek_12.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_12.jpg
+008_chek_13.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_13.jpg
+008_chek_14.jpg	D:\Projects\Портфолио\Site\All_des\008_chek_14.jpg
+009_kum_01.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_01.jpg
+009_kum_02.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_02.jpg
+009_kum_03.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_03.jpg
+009_kum_04.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_04.jpg
+009_kum_05.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_05.jpg
+009_kum_06.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_06.jpg
+009_kum_07.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_07.jpg
+009_kum_08.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_08.jpg
+009_kum_09.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_09.jpg
+009_kum_10.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_10.jpg
+009_kum_11.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_11.jpg
+009_kum_12.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_12.jpg
+009_kum_13.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_13.jpg
+009_kum_14.jpg	D:\Projects\Портфолио\Site\All_des\009_kum_14.jpg
+01_patio_01.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_01.jpg
+01_patio_02.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_02.jpg
+01_patio_03.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_03.jpg
+01_patio_04.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_04.jpg
+01_patio_05.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_05.jpg
+01_patio_06.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_06.jpg
+01_patio_07.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_07.jpg
+01_patio_08.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_08.jpg
+01_patio_09.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_09.jpg
+01_patio_10.jpg	D:\Projects\Портфолио\Site\All_des\01_patio_10.jpg
+02_res_01.jpg	D:\Projects\Портфолио\Site\All_des\02_res_01.jpg
+02_res_02.jpg	D:\Projects\Портфолио\Site\All_des\02_res_02.jpg
+02_res_03.jpg	D:\Projects\Портфолио\Site\All_des\02_res_03.jpg
+02_res_05.jpg	D:\Projects\Портфолио\Site\All_des\02_res_05.jpg
+02_res_06.jpg	D:\Projects\Портфолио\Site\All_des\02_res_06.jpg
+02_res_07.jpg	D:\Projects\Портфолио\Site\All_des\02_res_07.jpg
+02_res_08.jpg	D:\Projects\Портфолио\Site\All_des\02_res_08.jpg
+02_res_09.jpg	D:\Projects\Портфолио\Site\All_des\02_res_09.jpg
+02_res_10.jpg	D:\Projects\Портфолио\Site\All_des\02_res_10.jpg
+02_res_12.jpg	D:\Projects\Портфолио\Site\All_des\02_res_12.jpg
+03_most_01.jpg	D:\Projects\Портфолио\Site\All_des\03_most_01.jpg
+03_most_02.jpg	D:\Projects\Портфолио\Site\All_des\03_most_02.jpg
+03_most_03.jpg	D:\Projects\Портфолио\Site\All_des\03_most_03.jpg
+03_most_04.jpg	D:\Projects\Портфолио\Site\All_des\03_most_04.jpg
+03_most_05.jpg	D:\Projects\Портфолио\Site\All_des\03_most_05.jpg
+03_most_06.jpg	D:\Projects\Портфолио\Site\All_des\03_most_06.jpg
+03_most_07.jpg	D:\Projects\Портфолио\Site\All_des\03_most_07.jpg
+-04_hill_01.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_01.jpg
+-04_hill_02.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_02.jpg
+-04_hill_03.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_03.jpg
+-04_hill_04.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_04.jpg
+-04_hill_05.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_05.jpg
+-04_hill_06.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_06.jpg
+-04_hill_07.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_07.jpg
+-04_hill_08.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_08.jpg
+-04_hill_09.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_09.jpg
+-04_hill_10.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_10.jpg
+-04_hill_11.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_11.jpg
+-04_hill_12.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_12.jpg
+-04_hill_13.jpg	D:\Projects\Портфолио\Site\All_des\04_hill_13.jpg
+05_bel_01.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_01.jpg
+05_bel_02.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_02.jpg
+05_bel_03.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_03.jpg
+05_bel_04.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_04.jpg
+05_bel_05.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_05.jpg
+05_bel_06.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_06.jpg
+05_bel_b01.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b01.jpg
+05_bel_b02.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b02.jpg
+05_bel_b03.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b03.jpg
+05_bel_b04.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b04.jpg
+05_bel_b05.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b05.jpg
+05_bel_b06.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b06.jpg
+05_bel_b07.jpg	D:\Projects\Портфолио\Site\All_des\05_bel_b07.jpg
+-06_brat_01.jpg	D:\Projects\Портфолио\Site\All_des\06_brat_01.jpg
+-06_brat_02.jpg	D:\Projects\Портфолио\Site\All_des\06_brat_02.jpg
+-06_brat_03.jpg	D:\Projects\Портфолио\Site\All_des\06_brat_03.jpg
+-06_brat_04.jpg	D:\Projects\Портфолио\Site\All_des\06_brat_04.jpg
+-06_brat_05.jpg	D:\Projects\Портфолио\Site\All_des\06_brat_05.jpg
+-06_brat_07.jpg	D:\Projects\Портфолио\Site\All_des\06_brat_07.jpg
+-07_hmel_01.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_01.jpg
+-07_hmel_02.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_02.jpg
+-07_hmel_03.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_03.jpg
+-07_hmel_04.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_04.jpg
+-07_hmel_05.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_05.jpg
+-07_hmel_06.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_06.jpg
+-07_hmel_07.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_07.jpg
+-07_hmel_08.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_08.jpg
+-07_hmel_09.jpg	D:\Projects\Портфолио\Site\All_des\07_hmel_09.jpg
+-08_pug_01.jpg	D:\Projects\Портфолио\Site\All_des\08_pug_01.jpg
+-08_pug_02.jpg	D:\Projects\Портфолио\Site\All_des\08_pug_02.jpg
+-08_pug_03.jpg	D:\Projects\Портфолио\Site\All_des\08_pug_03.jpg
+-09_tar_01.jpg	D:\Projects\Портфолио\Site\All_des\09_tar_01.jpg
+-09_tar_02.jpg	D:\Projects\Портфолио\Site\All_des\09_tar_02.jpg
+-09_tar_03.jpg	D:\Projects\Портфолио\Site\All_des\09_tar_03.jpg
+-10_reg_01.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_01.jpg
+-10_reg_02.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_02.jpg
+-10_reg_03.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_03.jpg
+-10_reg_04.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_04.jpg
+-10_reg_05.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_05.jpg
+-10_reg_06.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_06.jpg
+-10_reg_07.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_07.jpg
+-10_reg_08.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_08.jpg
+-10_reg_09.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_09.jpg
+-10_reg_10.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_10.jpg
+-10_reg_11.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_11.jpg
+-10_reg_12.jpg	D:\Projects\Портфолио\Site\All_des\10_reg_12.jpg

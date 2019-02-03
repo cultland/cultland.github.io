@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>mostostroy</title>
+   	<link>.</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>03_most_01</title>
+            <link>slides/03_most_01.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_01.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_01.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_01.jpg" width="1800" height="1200" fileSize="358533"/>
+            
+            <guid isPermaLink="false">slides/03_most_01.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03_most_02</title>
+            <link>slides/03_most_02.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_02.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_02.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_02.jpg" width="1920" height="1280" fileSize="568575"/>
+            
+            <guid isPermaLink="false">slides/03_most_02.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03_most_03</title>
+            <link>slides/03_most_03.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_03.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_03.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_03.jpg" width="1920" height="1280" fileSize="615019"/>
+            
+            <guid isPermaLink="false">slides/03_most_03.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03_most_04</title>
+            <link>slides/03_most_04.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_04.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_04.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_04.jpg" width="1920" height="1280" fileSize="533060"/>
+            
+            <guid isPermaLink="false">slides/03_most_04.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03_most_05</title>
+            <link>slides/03_most_05.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_05.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_05.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_05.jpg" width="1920" height="1280" fileSize="657888"/>
+            
+            <guid isPermaLink="false">slides/03_most_05.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03_most_06</title>
+            <link>slides/03_most_06.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_06.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_06.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_06.jpg" width="1920" height="1280" fileSize="610467"/>
+            
+            <guid isPermaLink="false">slides/03_most_06.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03_most_07</title>
+            <link>slides/03_most_07.html#</link>
+            <pubDate>Mon, 22 Nov 2010 12:16:08 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_most_07.jpg" width="210" height="140"/>
+            <media:content type="image/jpeg" url="slides/03_most_07.jpg" width="720" height="480"/>
+            <jalbum:original url="03_most_07.jpg" width="1920" height="1280" fileSize="478245"/>
+            
+            <guid isPermaLink="false">slides/03_most_07.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

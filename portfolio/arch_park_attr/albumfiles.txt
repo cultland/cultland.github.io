@@ -1,0 +1,32 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+014_attr_01.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_01.jpg
+014_attr_02.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_02.jpg
+014_attr_03.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_03.jpg
+014_attr_04.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_04.jpg
+014_attr_05.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_05.jpg
+014_attr_06.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_06.jpg
+014_attr_07.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_07.jpg
+014_attr_08.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_08.jpg
+014_attr_09.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_09.jpg
+014_attr_10.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_10.jpg
+014_attr_11.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_11.jpg
+014_attr_12.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_12.jpg
+014_attr_13.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_13.jpg
+014_attr_14.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_14.jpg
+014_attr_15.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_15.jpg
+014_attr_16.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_16.jpg
+014_attr_17.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_17.jpg
+014_attr_18.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_18.jpg
+014_attr_19.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_19.jpg
+014_attr_20.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_20.jpg
+014_attr_21.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_21.jpg
+014_attr_22.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_22.jpg
+014_attr_23.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_23.jpg
+014_attr_24.jpg	D:\Projects\Портфолио\Site\Парк аттракционов\014_attr_24.jpg

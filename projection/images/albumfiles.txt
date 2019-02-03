@@ -1,0 +1,43 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+01_sit_01.jpg	D:\Projects\Портфолио\Site\Проектирование\01_sit_01.jpg
+01_sit_02.jpg	D:\Projects\Портфолио\Site\Проектирование\01_sit_02.jpg
+02_vosst_01.jpg	D:\Projects\Портфолио\Site\Проектирование\02_vosst_01.jpg
+03_for_01.jpg	D:\Projects\Портфолио\Site\Проектирование\03_for_01.jpg
+03_for_02.jpg	D:\Projects\Портфолио\Site\Проектирование\03_for_02.jpg
+03_for_03.jpg	D:\Projects\Портфолио\Site\Проектирование\03_for_03.jpg
+04_gen_01.jpg	D:\Projects\Портфолио\Site\Проектирование\04_gen_01.jpg
+04_gen_02.jpg	D:\Projects\Портфолио\Site\Проектирование\04_gen_02.jpg
+04_gen_03.jpg	D:\Projects\Портфолио\Site\Проектирование\04_gen_03.jpg
+05_ins_01.jpg	D:\Projects\Портфолио\Site\Проектирование\05_ins_01.jpg
+06_viz_01.jpg	D:\Projects\Портфолио\Site\Проектирование\06_viz_01.jpg
+06_viz_02.jpg	D:\Projects\Портфолио\Site\Проектирование\06_viz_02.jpg
+06_viz_03.jpg	D:\Projects\Портфолио\Site\Проектирование\06_viz_03.jpg
+07_dend_01.jpg	D:\Projects\Портфолио\Site\Проектирование\07_dend_01.jpg
+07_dend_02.jpg	D:\Projects\Портфолио\Site\Проектирование\07_dend_02.jpg
+08_dts_01.jpg	D:\Projects\Портфолио\Site\Проектирование\08_dts_01.jpg
+08_dts_02.jpg	D:\Projects\Портфолио\Site\Проектирование\08_dts_02.jpg
+09_pol_01.jpg	D:\Projects\Портфолио\Site\Проектирование\09_pol_01.jpg
+10_svet_01.jpg	D:\Projects\Портфолио\Site\Проектирование\10_svet_01.jpg
+11_seti_01.jpg	D:\Projects\Портфолио\Site\Проектирование\11_seti_01.jpg
+12_esk_01.jpg	D:\Projects\Портфолио\Site\Проектирование\12_esk_01.jpg
+12_esk_02.jpg	D:\Projects\Портфолио\Site\Проектирование\12_esk_02.jpg
+12_esk_03.jpg	D:\Projects\Портфолио\Site\Проектирование\12_esk_03.jpg
+13_vod_01.jpg	D:\Projects\Портфолио\Site\Проектирование\13_vod_01.jpg
+13_vod_02.jpg	D:\Projects\Портфолио\Site\Проектирование\13_vod_02.jpg
+14_spec_01.jpg	D:\Projects\Портфолио\Site\Проектирование\14_spec_01.jpg
+14_spec_02.jpg	D:\Projects\Портфолио\Site\Проектирование\14_spec_02.jpg
+14_spec_03.jpg	D:\Projects\Портфолио\Site\Проектирование\14_spec_03.jpg
+15_anrel_01.jpg	D:\Projects\Портфолио\Site\Проектирование\15_anrel_01.jpg
+16_vert_01.jpg	D:\Projects\Портфолио\Site\Проектирование\16_vert_01.jpg
+16_vert_02.jpg	D:\Projects\Портфолио\Site\Проектирование\16_vert_02.jpg
+16_vert_03.jpg	D:\Projects\Портфолио\Site\Проектирование\16_vert_03.jpg
+17_vol_01.jpg	D:\Projects\Портфолио\Site\Проектирование\17_vol_01.jpg
+18_raz_01.jpg	D:\Projects\Портфолио\Site\Проектирование\18_raz_01.jpg
+19_blag_01.jpg	D:\Projects\Портфолио\Site\Проектирование\19_blag_01.jpg

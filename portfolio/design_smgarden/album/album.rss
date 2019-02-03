@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>design_smgarden</title>
+   	<link>.</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="design_smgarden/album.rss" />   	
+    	
+        
+        <item>
+            <title>012_mal_01</title>
+            <link>slides/012_mal_01.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_01.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/012_mal_01.jpg" width="720" height="405"/>
+            <jalbum:original url="012_mal_01.jpg" width="1920" height="1080" fileSize="595106"/>
+            
+            <guid isPermaLink="false">slides/012_mal_01.jpg</guid>
+        </item>
+        
+        <item>
+            <title>012_mal_02</title>
+            <link>slides/012_mal_02.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_02.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/012_mal_02.jpg" width="720" height="405"/>
+            <jalbum:original url="012_mal_02.jpg" width="1920" height="1080" fileSize="469973"/>
+            
+            <guid isPermaLink="false">slides/012_mal_02.jpg</guid>
+        </item>
+        
+        <item>
+            <title>012_mal_03</title>
+            <link>slides/012_mal_03.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_03.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/012_mal_03.jpg" width="720" height="405"/>
+            <jalbum:original url="012_mal_03.jpg" width="1920" height="1080" fileSize="711047"/>
+            
+            <guid isPermaLink="false">slides/012_mal_03.jpg</guid>
+        </item>
+        
+        <item>
+            <title>012_mal_04</title>
+            <link>slides/012_mal_04.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_04.jpg" width="160" height="70"/>
+            <media:content type="image/jpeg" url="slides/012_mal_04.jpg" width="720" height="316"/>
+            <jalbum:original url="012_mal_04.jpg" width="1920" height="843" fileSize="289793"/>
+            
+            <guid isPermaLink="false">slides/012_mal_04.jpg</guid>
+        </item>
+        
+        <item>
+            <title>012_mal_05</title>
+            <link>slides/012_mal_05.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_05.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/012_mal_05.jpg" width="720" height="405"/>
+            <jalbum:original url="012_mal_05.jpg" width="1920" height="1080" fileSize="543200"/>
+            
+            <guid isPermaLink="false">slides/012_mal_05.jpg</guid>
+        </item>
+        
+        <item>
+            <title>012_mal_06</title>
+            <link>slides/012_mal_06.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_06.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/012_mal_06.jpg" width="720" height="405"/>
+            <jalbum:original url="012_mal_06.jpg" width="1920" height="1080" fileSize="400464"/>
+            
+            <guid isPermaLink="false">slides/012_mal_06.jpg</guid>
+        </item>
+        
+        <item>
+            <title>012_mal_07</title>
+            <link>slides/012_mal_07.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:13:56 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012_mal_07.jpg" width="160" height="158"/>
+            <media:content type="image/jpeg" url="slides/012_mal_07.jpg" width="590" height="585"/>
+            <jalbum:original url="012_mal_07.jpg" width="1920" height="1903" fileSize="1000701"/>
+            
+            <guid isPermaLink="false">slides/012_mal_07.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

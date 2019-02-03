@@ -1,0 +1,22 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+009_kum_01.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_01.jpg
+009_kum_02.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_02.jpg
+009_kum_03.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_03.jpg
+009_kum_04.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_04.jpg
+009_kum_05.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_05.jpg
+009_kum_06.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_06.jpg
+009_kum_07.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_07.jpg
+009_kum_08.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_08.jpg
+009_kum_09.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_09.jpg
+009_kum_10.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_10.jpg
+009_kum_11.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_11.jpg
+009_kum_12.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_12.jpg
+009_kum_13.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_13.jpg
+009_kum_14.jpg	D:\Projects\Портфолио\Site\Косачев\009_kum_14.jpg

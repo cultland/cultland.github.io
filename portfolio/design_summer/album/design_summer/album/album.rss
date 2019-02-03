@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>album</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>013_dat_04</title>
+            <link>slides/013_dat_04.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:14:35 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/013_dat_04.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/013_dat_04.jpg" width="720" height="405"/>
+            <jalbum:original url="013_dat_04.jpg" width="1920" height="1080" fileSize="407848"/>
+            
+            <guid isPermaLink="false">slides/013_dat_04.jpg</guid>
+        </item>
+        
+        <item>
+            <title>013_dat_05</title>
+            <link>slides/013_dat_05.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:14:35 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/013_dat_05.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/013_dat_05.jpg" width="720" height="405"/>
+            <jalbum:original url="013_dat_05.jpg" width="1920" height="1080" fileSize="494935"/>
+            
+            <guid isPermaLink="false">slides/013_dat_05.jpg</guid>
+        </item>
+        
+        <item>
+            <title>013_dat_01</title>
+            <link>slides/013_dat_01.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:14:35 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/013_dat_01.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/013_dat_01.jpg" width="720" height="405"/>
+            <jalbum:original url="013_dat_01.jpg" width="1920" height="1080" fileSize="612463"/>
+            
+            <guid isPermaLink="false">slides/013_dat_01.jpg</guid>
+        </item>
+        
+        <item>
+            <title>013_dat_02</title>
+            <link>slides/013_dat_02.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:14:35 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/013_dat_02.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/013_dat_02.jpg" width="720" height="405"/>
+            <jalbum:original url="013_dat_02.jpg" width="1920" height="1080" fileSize="587478"/>
+            
+            <guid isPermaLink="false">slides/013_dat_02.jpg</guid>
+        </item>
+        
+        <item>
+            <title>013_dat_03</title>
+            <link>slides/013_dat_03.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:14:35 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/013_dat_03.jpg" width="160" height="60"/>
+            <media:content type="image/jpeg" url="slides/013_dat_03.jpg" width="720" height="271"/>
+            <jalbum:original url="013_dat_03.jpg" width="1920" height="725" fileSize="206492"/>
+            
+            <guid isPermaLink="false">slides/013_dat_03.jpg</guid>
+        </item>
+        
+        <item>
+            <title>013_dat_06</title>
+            <link>slides/013_dat_06.html#</link>
+            <pubDate>Fri, 25 Oct 2013 16:14:35 +0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/013_dat_06.jpg" width="160" height="122"/>
+            <media:content type="image/jpeg" url="slides/013_dat_06.jpg" width="720" height="550"/>
+            <jalbum:original url="013_dat_06.jpg" width="1920" height="1469" fileSize="779308"/>
+            
+            <guid isPermaLink="false">slides/013_dat_06.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

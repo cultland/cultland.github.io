@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_16" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <string>imageSettingsHash</string> 
+   <string>ce7fb803a9dc546487462fd876a7e3bf</string> 
+  </void> 
+ </object> 
+</java> 

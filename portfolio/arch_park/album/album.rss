@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>arch_park</title>
+   	<link>.</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>01_park_01</title>
+            <link>slides/01_park_01.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_01.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_01.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_01.jpg" width="3000" height="1500" fileSize="524017"/>
+            
+            <guid isPermaLink="false">slides/01_park_01.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_02</title>
+            <link>slides/01_park_02.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_02.jpg" width="160" height="112"/>
+            <media:content type="image/jpeg" url="slides/01_park_02.jpg" width="720" height="504"/>
+            <jalbum:original url="01_park_02.jpg" width="1300" height="910" fileSize="274324"/>
+            
+            <guid isPermaLink="false">slides/01_park_02.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_03</title>
+            <link>slides/01_park_03.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_03.jpg" width="160" height="111"/>
+            <media:content type="image/jpeg" url="slides/01_park_03.jpg" width="720" height="503"/>
+            <jalbum:original url="01_park_03.jpg" width="1543" height="1080" fileSize="497502"/>
+            
+            <guid isPermaLink="false">slides/01_park_03.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_04</title>
+            <link>slides/01_park_04.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_04.jpg" width="160" height="84"/>
+            <media:content type="image/jpeg" url="slides/01_park_04.jpg" width="720" height="378"/>
+            <jalbum:original url="01_park_04.jpg" width="1920" height="1008" fileSize="429052"/>
+            
+            <guid isPermaLink="false">slides/01_park_04.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_05</title>
+            <link>slides/01_park_05.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_05.jpg" width="160" height="111"/>
+            <media:content type="image/jpeg" url="slides/01_park_05.jpg" width="720" height="503"/>
+            <jalbum:original url="01_park_05.jpg" width="1543" height="1080" fileSize="533767"/>
+            
+            <guid isPermaLink="false">slides/01_park_05.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_06</title>
+            <link>slides/01_park_06.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_06.jpg" width="160" height="86"/>
+            <media:content type="image/jpeg" url="slides/01_park_06.jpg" width="720" height="390"/>
+            <jalbum:original url="01_park_06.jpg" width="2000" height="1086" fileSize="815543"/>
+            
+            <guid isPermaLink="false">slides/01_park_06.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_07</title>
+            <link>slides/01_park_07.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_07.jpg" width="160" height="71"/>
+            <media:content type="image/jpeg" url="slides/01_park_07.jpg" width="720" height="320"/>
+            <jalbum:original url="01_park_07.jpg" width="1125" height="500" fileSize="115706"/>
+            
+            <guid isPermaLink="false">slides/01_park_07.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_08</title>
+            <link>slides/01_park_08.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_08.jpg" width="160" height="106"/>
+            <media:content type="image/jpeg" url="slides/01_park_08.jpg" width="720" height="480"/>
+            <jalbum:original url="01_park_08.jpg" width="900" height="600" fileSize="219371"/>
+            
+            <guid isPermaLink="false">slides/01_park_08.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_09</title>
+            <link>slides/01_park_09.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_09.jpg" width="160" height="72"/>
+            <media:content type="image/jpeg" url="slides/01_park_09.jpg" width="720" height="324"/>
+            <jalbum:original url="01_park_09.jpg" width="1920" height="865" fileSize="593579"/>
+            
+            <guid isPermaLink="false">slides/01_park_09.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_10</title>
+            <link>slides/01_park_10.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_10.jpg" width="160" height="106"/>
+            <media:content type="image/jpeg" url="slides/01_park_10.jpg" width="720" height="480"/>
+            <jalbum:original url="01_park_10.jpg" width="1050" height="700" fileSize="296185"/>
+            
+            <guid isPermaLink="false">slides/01_park_10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_11</title>
+            <link>slides/01_park_11.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_11.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_11.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_11.jpg" width="900" height="450" fileSize="175050"/>
+            
+            <guid isPermaLink="false">slides/01_park_11.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_12</title>
+            <link>slides/01_park_12.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_12.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_12.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_12.jpg" width="1800" height="900" fileSize="592436"/>
+            
+            <guid isPermaLink="false">slides/01_park_12.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_13</title>
+            <link>slides/01_park_13.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_13.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/01_park_13.jpg" width="585" height="585"/>
+            <jalbum:original url="01_park_13.jpg" width="900" height="900" fileSize="332305"/>
+            
+            <guid isPermaLink="false">slides/01_park_13.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_14</title>
+            <link>slides/01_park_14.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_14.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_14.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_14.jpg" width="900" height="450" fileSize="125488"/>
+            
+            <guid isPermaLink="false">slides/01_park_14.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_15</title>
+            <link>slides/01_park_15.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_15.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_15.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_15.jpg" width="1200" height="600" fileSize="199552"/>
+            
+            <guid isPermaLink="false">slides/01_park_15.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_16</title>
+            <link>slides/01_park_16.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_16.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_16.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_16.jpg" width="1200" height="600" fileSize="174274"/>
+            
+            <guid isPermaLink="false">slides/01_park_16.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_17</title>
+            <link>slides/01_park_17.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_17.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_17.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_17.jpg" width="900" height="450" fileSize="125322"/>
+            
+            <guid isPermaLink="false">slides/01_park_17.jpg</guid>
+        </item>
+        
+        <item>
+            <title>01_park_18</title>
+            <link>slides/01_park_18.html#</link>
+            <pubDate>Wed, 24 Nov 2010 10:17:12 +0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_park_18.jpg" width="160" height="80"/>
+            <media:content type="image/jpeg" url="slides/01_park_18.jpg" width="720" height="360"/>
+            <jalbum:original url="01_park_18.jpg" width="900" height="450" fileSize="78743"/>
+            
+            <guid isPermaLink="false">slides/01_park_18.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

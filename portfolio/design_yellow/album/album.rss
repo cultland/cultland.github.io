@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>design_yellow</title>
+   	<link>.</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>yel_001</title>
+            <link>slides/yel_001.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_001.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_001.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_001.jpg" width="1920" height="1080" fileSize="755619"/>
+            
+            <guid isPermaLink="false">slides/yel_001.jpg</guid>
+        </item>
+        
+        <item>
+            <title>yel_002</title>
+            <link>slides/yel_002.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_002.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_002.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_002.jpg" width="1920" height="1080" fileSize="684459"/>
+            
+            <guid isPermaLink="false">slides/yel_002.jpg</guid>
+        </item>
+        
+        <item>
+            <title>yel_003</title>
+            <link>slides/yel_003.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_003.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_003.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_003.jpg" width="1920" height="1080" fileSize="797821"/>
+            
+            <guid isPermaLink="false">slides/yel_003.jpg</guid>
+        </item>
+        
+        <item>
+            <title>yel_004</title>
+            <link>slides/yel_004.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_004.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_004.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_004.jpg" width="1920" height="1080" fileSize="705952"/>
+            
+            <guid isPermaLink="false">slides/yel_004.jpg</guid>
+        </item>
+        
+        <item>
+            <title>yel_005</title>
+            <link>slides/yel_005.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_005.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_005.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_005.jpg" width="1920" height="1080" fileSize="616053"/>
+            
+            <guid isPermaLink="false">slides/yel_005.jpg</guid>
+        </item>
+        
+        <item>
+            <title>yel_006</title>
+            <link>slides/yel_006.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_006.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_006.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_006.jpg" width="1920" height="1080" fileSize="780770"/>
+            
+            <guid isPermaLink="false">slides/yel_006.jpg</guid>
+        </item>
+        
+        <item>
+            <title>yel_007</title>
+            <link>slides/yel_007.html#</link>
+            <pubDate>Tue, 21 Oct 2014 15:44:16 +0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/yel_007.jpg" width="160" height="160"/>
+            <media:content type="image/jpeg" url="slides/yel_007.jpg" width="720" height="405"/>
+            <jalbum:original url="yel_007.jpg" width="1920" height="1080" fileSize="615153"/>
+            
+            <guid isPermaLink="false">slides/yel_007.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

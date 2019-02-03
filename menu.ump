@@ -1,0 +1,35 @@
+[ver]
+ver=1.2
+[global]
+ImagePath=images
+ScriptPath=Scripts
+LinkPrefixion=
+[menu]
+CrossFrame=False,,0,0,5,
+Advance=True,,,
+mi0=0,h,,xy,,50,300,0,0,1,0,0,1px None #ACA899,1px None #ACA899,1px None #ACA899,1px None #ACA899,right,transparent,,1,1,,Filter:none(Duration=0.5),,#C0C0C0,10,Default,Pointer,100%,100,0,
+mi1=2,wme1,,Главная,,,,,,,0,0,,,Arial,Arial,8pt,8pt,normal,normal,#000000,#FFFFFF,normal,normal,none,none,transparent,transparent,,,1,1,1,1,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #3A4057,1px None #3A4057,1px None #3A4057,1px None #3A4057,middle,left,main.html,,,_self,,,1,D:\Projects\Site\www\off_main.gif,D:\Projects\Site\www\on_main.gif,41,117,0,0,0,
+mi2=2,wme3,,О нас,,,,,C:\Program Files (x86)\UltraMenu\res\arrow.gif,C:\Program Files (x86)\UltraMenu\res\arrow.gif,0,0,,,Arial,Arial,8pt,8pt,normal,normal,#000000,#FFFFFF,normal,normal,none,none,transparent,transparent,,,1,1,1,1,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #3A4057,1px None #3A4057,1px None #3A4057,1px None #3A4057,middle,left,about.html,,,_self,,,1,D:\Projects\Site\www\off_about.gif,D:\Projects\Site\www\on_about.gif,41,97,0,0,0,
+mi3=1,wme19,,2,v,10,5,2,4,2px Solid #000000,2px Solid #000000,2px Solid #000000,2px Solid #000000,#F4F3EE,,1,1,,Filter:none(Duration=1),,#000000,5,100,
+mi4=2,wme18,,История,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi5=2,wme22,,Контакты,,,,,,,,,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,,0,0,
+mi6=2,wme23,,Климат,,,,,,,,,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,,0,0,
+mi7=3
+mi8=2,wme25,,Информация,,,,,C:\Program Files (x86)\UltraMenu\res\arrow.gif,C:\Program Files (x86)\UltraMenu\res\arrow.gif,0,0,,,Arial,Arial,8pt,8pt,normal,normal,#000000,#FFFFFF,normal,normal,none,none,transparent,transparent,,,1,1,1,1,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #3A4057,1px None #3A4057,1px None #3A4057,1px None #3A4057,middle,left,info.html,,,_self,,,1,D:\Projects\Site\www\off_info.gif,D:\Projects\Site\www\on_info.gif,41,151,0,0,0,
+mi9=1,wme52,,2,v,9,5,2,4,2px Solid #000000,2px Solid #000000,2px Solid #000000,2px Solid #000000,#F4F3EE,,1,1,,Filter:none(Duration=1),,#C0C0C0,0,100,
+mi10=2,wme53,,Выставки,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi11=2,wme63,,Карта сайта,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi12=3
+mi13=2,wme54,,Портфолио,,,,,C:\Program Files (x86)\UltraMenu\res\arrow.gif,C:\Program Files (x86)\UltraMenu\res\arrow.gif,0,0,,,Arial,Arial,8pt,8pt,normal,normal,#000000,#FFFFFF,normal,normal,none,none,transparent,transparent,,,1,1,1,1,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #3A4057,1px None #3A4057,1px None #3A4057,1px None #3A4057,middle,left,portfolio.html,,,_self,,,1,D:\Projects\Site\www\off_portfolio.gif,D:\Projects\Site\www\on_portfolio.gif,41,139,0,0,0,
+mi14=1,wme55,,2,v,9,5,2,4,2px Solid #000000,2px Solid #000000,2px Solid #000000,2px Solid #000000,#F4F3EE,,1,1,,Filter:none(Duration=1),,#C0C0C0,0,100,
+mi15=2,wme56,,Проектирование,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi16=3
+mi17=2,wme57,,Ссылки,,,,,C:\Program Files (x86)\UltraMenu\res\arrow.gif,C:\Program Files (x86)\UltraMenu\res\arrow.gif,0,0,,,Arial,Arial,8pt,8pt,normal,normal,#000000,#FFFFFF,normal,normal,none,none,transparent,transparent,,,1,1,1,1,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #3A4057,1px None #3A4057,1px None #3A4057,1px None #3A4057,middle,left,links.html,,,_self,,,1,D:\Projects\Site\www\off_links.gif,D:\Projects\Site\www\on_links.gif,41,113,0,0,0,
+mi18=1,wme58,,2,v,9,5,2,4,2px Solid #000000,2px Solid #000000,2px Solid #000000,2px Solid #000000,#F4F3EE,,1,1,,Filter:none(Duration=1),,#C0C0C0,0,100,
+mi19=2,wme59,,Партнеры,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi20=2,wme64,,Партнеры,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi21=3
+mi22=2,wme60,,Контакты,,,,,C:\Program Files (x86)\UltraMenu\res\arrow.gif,C:\Program Files (x86)\UltraMenu\res\arrow.gif,0,0,,,Arial,Arial,8pt,8pt,normal,normal,#000000,#FFFFFF,normal,normal,none,none,transparent,transparent,,,1,1,1,1,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #8A7D6A,1px None #3A4057,1px None #3A4057,1px None #3A4057,1px None #3A4057,middle,left,contacts.html,,,_self,,,1,D:\Projects\Site\www\off_contacts.gif,D:\Projects\Site\www\on_contacts.gif,41,131,0,0,0,
+mi23=1,wme61,,2,v,9,5,2,4,2px Solid #000000,2px Solid #000000,2px Solid #000000,2px Solid #000000,#F4F3EE,,1,1,,Filter:none(Duration=1),,#C0C0C0,0,100,
+mi24=2,wme62,,Выставки,,,,,,,0,0,,,Arial,Arial,10pt,10pt,normal,normal,#000000,#FFFFFF,bold,bold,none,none,transparent,#77A110,,,1,1,1,1,1px None #FFFFFF,1px None #FFFFFF,1px None #FF0000,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,1px None #FFFFFF,middle,left,underconstruction.html,,,_self,,,0,,,,,0,0,0,
+mi25=3
